@@ -29,3 +29,8 @@ margin-top: 10px;
 margin-bottom: 5px;
 }
 ```
+/* CSS for the title */
+h1 {
+    font-weight: bold;
+    text-align: center;
+    }
