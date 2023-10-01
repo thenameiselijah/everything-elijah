@@ -1,4 +1,31 @@
 body {
     background: pink;
   }
-  
+  CSS:
+```css
+album-section {
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.album {
+width: 200px;
+margin: 20px;
+text-align: center;
+}
+
+.album img {
+width: 100%;
+height: auto;
+}
+
+.album h3 {
+margin-top: 10px;
+}
+
+.album p {
+margin-bottom: 5px;
+}
+```
