@@ -60,3 +60,30 @@ h1 {
         height: 180px;
         object-fit: cover;
       }
+      #book-section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .book {
+        width: 200px;
+        margin: 20px;
+        text-align: center;
+      }
+      
+      .book img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+      }
+      
+      .book h3 {
+        margin-top: 10px;
+        font-size: 18px;
+      }
+      
+      .book p {
+        margin-bottom: 5px;
+        font-size: 14px;
+      }
