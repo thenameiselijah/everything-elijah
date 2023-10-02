@@ -34,3 +34,29 @@ h1 {
     font-weight: bold;
     text-align: center;
     }
+    #game-section .game:nth-child(1) img {
+        width: 250px;
+      }
+      
+      #game-section .game:nth-child(2) img {
+        width: 200px;
+        border: 2px solid #ff0000;
+      }
+      
+      #game-section .game:nth-child(3) img {
+        width: 180px;
+        height: 250px;
+        border-radius: 50%;
+      }
+      
+      #game-section .game:nth-child(4) img {
+        width: 220px;
+        height: auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      }
+      
+      #game-section .game:nth-child(5) img {
+        width: 180px;
+        height: 180px;
+        object-fit: cover;
+      }
