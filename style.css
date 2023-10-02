@@ -87,3 +87,22 @@ h1 {
         margin-bottom: 5px;
         font-size: 14px;
       }
+      #tvshow-section .tvshow:nth-child(1) img {
+        width: 250px;
+      }
+      
+      #tvshow-section .tvshow:nth-child(2) img {
+        width: 200px;
+      }
+      
+      #tvshow-section .tvshow:nth-child(3) img {
+        width: 180px;
+      }
+      
+      #tvshow-section .tvshow:nth-child(4) img {
+        width: 220px;
+      }
+      
+      #tvshow-section .tvshow:nth-child(5) img {
+        width: 180px;
+      }
